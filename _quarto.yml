@@ -21,6 +21,8 @@ website:
           href: person1.qmd
         - text: "Person 2"
           href: person2.qmd
+        - text: "Pano Klironomos"
+          href: panoklironomos.qmd
         - text: "Logan Roche"
           href: logan_roche.qmd
       - text: "Comparative Analysis"
