@@ -24,7 +24,7 @@ website:
         - text: "Logan Roche"
           href: logan_roche.qmd
       - text: "Comparative Analysis"
-        href: comparison.qmd
+        href: analysis.qmd
 
 format:
   html:
