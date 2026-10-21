@@ -4,8 +4,24 @@ title: "Investigating a Dataset's Ingredients"
 
 ## Topic Area
 
-Introduce your topic area. What did you choose, why did you choose it? 
+Our team chose **energy usage**, with a focus on how the rapid buildout of AI data centers is affecting the power grid around it.
+
+Data centers have always used a lot of electricity, but the push to train and run AI models has sped up construction dramatically over the past few years. A single large facility can draw as much power as a small city, and utilities in some regions have started planning new generation and transmission just to keep up. At the same time, there's been growing public concern that everyday customers could end up covering part of that cost through higher electricity bills.
+
+We picked this topic because it sits right where technology and everyday life meet. As computer science students, we spend a lot of time thinking about what AI can do, and much less time thinking about what it takes to physically power it. The topic also has clear stakeholders across government (the U.S. Energy Information Administration, state utility commissions), research and academia, and nonprofits focused on energy affordability, which made it a good fit for finding well-documented public data.
 
 ## Research Question
 
-State your research question that you hope to answer with data. 
+> Has energy usage or pricing significantly increased in places where data center buildout for AI is prevalent?
+
+## Our Approach
+
+Each team member independently found a different public dataset related to this question and documented how it was collected using a **Data Collection Facts Label**, similar to a Nutrition Facts Label but for data. The labels cover who produced each dataset, why and how it was collected, what one record represents, and what time period and geography it covers.
+
+You can view each label here:
+
+- [Joseph Callaway](jjcallaway.qmd)
+- [Pano Klironomos](panoklironomos.qmd)
+- [Logan Roche](logan_roche.qmd)
+
+We then compared the three sources side by side to decide which one fits our research question best, looking at trustworthiness, relevance, ethical concerns, and scope. That discussion is on the [Comparative Analysis](comparison.qmd) page.

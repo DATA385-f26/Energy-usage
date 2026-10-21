@@ -19,8 +19,6 @@ website:
         menu:
         - text: "jjcallaway"
           href: jjcallaway.qmd
-        - text: "Person 2"
-          href: person2.qmd
         - text: "Pano Klironomos"
           href: panoklironomos.qmd
         - text: "Logan Roche"
